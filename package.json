@@ -29,5 +29,8 @@
     "url": "https://github.com/zeta987/cc-bunline.git"
   },
   "author": "ZETA",
+  "bugs": {
+    "url": "https://github.com/zeta987/cc-bunline/issues"
+  },
   "homepage": "https://github.com/zeta987/cc-bunline"
 }

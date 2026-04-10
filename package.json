@@ -1,6 +1,6 @@
 {
   "name": "cc-bunline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Multi-line Claude Code statusline for Bun: model info, cost, tokens, rate limits, and git status",
   "type": "module",
   "bin": {

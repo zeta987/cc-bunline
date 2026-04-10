@@ -15,7 +15,7 @@ Renders a rich, four-line ANSI statusline for Claude Code:
 3. **Rate Limits** — 5-hour and 7-day windows with reset timers.
 4. **Git** — Repository name, branch, and working tree change statistics.
 
-![screenshot](https://github.com/user-attachments/assets/2013ede2-e10c-4a93-b3b7-fc68fb7660d2)
+![screenshot](https://raw.githubusercontent.com/zeta987/cc-bunline/main/assets/screenshot-en.jpg)
 
 ## Requirements
 

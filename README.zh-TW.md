@@ -15,7 +15,7 @@ Bun 專屬的 Claude Code 多行狀態列—在終端機中顯示模型資訊、
 3. **速率限制** —5 小時與 7 天視窗，含重置倒計時
 4. **Git** —儲存庫名稱、分支、工作區變更統計
 
-![截圖](https://github.com/user-attachments/assets/766449ac-fe8c-459f-adbd-40a6dad02e66)
+![截圖](https://raw.githubusercontent.com/zeta987/cc-bunline/main/assets/screenshot-zh.jpg)
 
 ## 系統需求
 
